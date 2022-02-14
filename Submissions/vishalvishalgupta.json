@@ -1,0 +1,16 @@
+{
+    "name": "Vishal Gupta",
+    "img": "https://pixabay.com/photos/code-geek-talk-code-to-me-coffee-cup-2680204/",
+    "email": "vishal.vishal.gupta48gmail.com",
+    "links": {
+      "website": "https://medium.com/@vishal-vishal-gupta48",
+      "linkedin": "https://www.linkedin.com/in/guptaji123/",
+      "github": "https://github.com/vishalvishalgupta"
+    },
+    "jobTitle": "Full Stack(MERN STACK) Developer",
+    "location": {
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "country": "India"
+    }
+  }
